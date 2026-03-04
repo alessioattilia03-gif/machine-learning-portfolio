@@ -32,6 +32,7 @@ Il progetto è configurato per **Python 3.12**.
 Per installare le dipendenze:
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🌐 Navigazione Rapida
 - **[Vai al Sito Web Portfolio](https://alessioattilia03-gif.github.io)**
