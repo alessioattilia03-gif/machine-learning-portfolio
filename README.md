@@ -35,5 +35,5 @@ pip install -r requirements.txt
 ```
 
 ## 🌐 Navigazione Rapida
-- **[Vai al Sito Web Portfolio](https://alessioattilia03-gif.github.io)**
-- **[Scarica il mio CV](https://alessioattilia03-gif.github.io/cv_professional.pdf)**
+- **[Vai al Sito Web Portfolio](https://portfolio-web-818.pages.dev/)**
+
