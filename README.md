@@ -34,6 +34,4 @@ Per installare le dipendenze:
 pip install -r requirements.txt
 ```
 
-## 🌐 Navigazione Rapida
-- **[Vai al Sito Web Portfolio](https://portfolio-web-818.pages.dev/)**
 
